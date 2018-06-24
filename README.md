@@ -1,3 +1,3 @@
 # Geetest
 
-![Geetest](./screenshot/Jun-24-2018 04-55-03.gif)
+![demo](https://github.com/waka93/Geetest/blob/master/screenshot/demo.gif)
